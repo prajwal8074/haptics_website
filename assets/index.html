@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <button id="vibrate">vibrate</button>
+    <script>
+        Notification.requestPermission().then(function(permission) {
+            console.log('permiss', permission);
+            let title = "JavaScript Jeep";
+            let body = "It's Your boarding time";
+
+            var notification = new Notification(title, {body});
+            notification.show();
+        });
+        
+        const vibrate = document.getElementById('vibrate')
+        vibrate.addEventListener('pointerdown', event => {
+          alert(navigator.vibrate(200));
+        });
+    </script>
+</body>
+</html>
