@@ -69957,7 +69957,7 @@ r=A.cF("There is a similar app from Play Store, I can download from there.",A.Y(
 return new A.pZ(p,A.b([new A.bM(B.hy,n,q),new A.bM(B.hy,s,q),new A.bM(B.hy,A.agp(A.b([A.XW(q,q,q,!0,q,q,q,q,A.cF("There is no ringtone app on Play Store that uses haptics. Addiotionally, this app allows you to create your own haptic ringtones.",q),q,q)],m),o===2,new A.l2(),new A.ab3(b),r),q)],m),q)},
 $S:429}
 A.ab1.prototype={
-$1(a){A.iX(A.bq(0,1000,0),new A.ab0(a,this.a),t.P)},
+$1(a){A.iX(A.bq(0,500,0),new A.ab0(a,this.a),t.P)},
 $S:15}
 A.ab0.prototype={
 $0(){var s=this.b
@@ -69971,7 +69971,7 @@ A.aaY.prototype={
 $0(){$.lu=-1},
 $S:0}
 A.ab2.prototype={
-$1(a){A.iX(A.bq(0,1000,0),new A.ab_(a,this.a),t.P)},
+$1(a){A.iX(A.bq(0,500,0),new A.ab_(a,this.a),t.P)},
 $S:15}
 A.ab_.prototype={
 $0(){var s=this.b
@@ -69985,7 +69985,7 @@ A.aaW.prototype={
 $0(){$.lu=-1},
 $S:0}
 A.ab3.prototype={
-$1(a){A.iX(A.bq(0,1000,0),new A.aaZ(a,this.a),t.P)},
+$1(a){A.iX(A.bq(0,500,0),new A.aaZ(a,this.a),t.P)},
 $S:15}
 A.aaZ.prototype={
 $0(){var s=this.b
