@@ -73374,7 +73374,7 @@ $S:442}
 A.adU.prototype={
 $1(a){switch(a){case 0:A.asI(new A.adK(),this.b,t.y).b0(new A.adL(this.a),t.P)
 break
-case 1:$.Cw().jO("open",["https://discord.gg/7zchbDMq"])
+case 1:$.Cw().jO("open",["https://discord.gg/AUscy4ubqc"])
 break
 case 2:A.asI(new A.adM(),this.b,t.H)
 break
