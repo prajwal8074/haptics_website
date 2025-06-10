@@ -68812,7 +68812,7 @@ case 4:r.a=new A.bO(new A.aD(6,16,16,16),A.d0("Does my device support it?",A.a1(
 break
 case 5:r.a=A.qg(A.c([A.Vz(new A.bO(new A.aD(5,5,5,5),A.al7(B.dp,B.j,s,A.d0("vibration",s),new A.ac_()),s)),A.Vz(new A.bO(new A.aD(5,5,5,5),A.al7(B.EG,B.j,s,A.d0("haptics",s),new A.ac0()),s))],t.D),B.aj,B.ag,B.b1)
 break
-case 6:r.a=new A.bO(new A.aD(6,16,16,0),A.d0("Phone should NOT be in silent mode for the buttons to work",A.fR(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s)),s)
+case 6:r.a=new A.bO(new A.aD(6,16,16,0),A.d0("*Phone should NOT be in silent mode for the buttons to work",A.fR(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s)),s)
 break
 case 7:r.a=new A.bO(new A.aD(6,0,16,$.Ri.aJ().b/10+10),A.oM(A.c([A.d0("If you feel difference between the two buttons above, then your phone supports haptics!",s),A.Un()],t.D),B.aj,B.ag,B.b1),s)
 break
