@@ -1,2 +1,29 @@
 # Site settings
 title: Haptic Ringtones
+email: prajwal8074@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  none
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://prajwal8074.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+# permalink: pretty # Uncomment this if you want permalinks like /year/month/day/title/
+markdown: kramdown
+theme: minima # You can change this to another Jekyll theme if you have one installed or specified.
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by Jekyll, when you run "jekyll serve" or "jekyll build".
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
