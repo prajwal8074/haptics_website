@@ -68764,7 +68764,7 @@ $2(a,b){var s,r=null,q=A.d0("FAQs",A.fR(r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.aY,r,r,!0,
 o=A.al5(A.c([A.ahF(r,r,r,!0,!0,r,r,r,r,A.d0("This app is about creating custom haptic ringtones",r),r,r)],n),p===0,new A.nG(),new A.abQ(b),o)
 p=$.BR
 s=A.d0("Why is this app not on Google Play Store?",A.a1(a).ok.w)
-return new A.qu(q,A.c([new A.bO(B.kb,o,r),new A.bO(B.kb,A.al5(A.c([A.ahF(r,r,r,!0,!0,r,r,r,r,A.d0("Maintaining ap app on Google Play Store is a headache, so I hosted it on Github",r),r,r)],n),p===1,new A.nG(),new A.abR(b),s),r)],n),r)},
+return new A.qu(q,A.c([new A.bO(B.kb,o,r),new A.bO(B.kb,A.al5(A.c([A.ahF(r,r,r,!0,!0,r,r,r,r,A.d0("Maintaining an app on Google Play Store is a headache, so I hosted it on Github",r),r,r)],n),p===1,new A.nG(),new A.abR(b),s),r)],n),r)},
 $S:445}
 A.abQ.prototype={
 $1(a){A.j7(A.bN(0,200,0),new A.abP(a,this.a),t.P)},
