@@ -68739,7 +68739,7 @@ break}},
 $S:13}
 A.abX.prototype={
 $1(a){var s=null
-return new A.op(A.d0("Pick Ringtone File",A.fR(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aY,s,s,!0,s,s,s,s,s,s,s,s)),A.d0("Open the app, click share on the ringtone you want to publish and the select the shared file here. Your ringtone will be added in the next app update.",s),A.c([A.an8(B.Nq,new A.abV(a),A.an9(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.a1(a).ok.as,s)),A.an8(B.Np,new A.abW(a),A.an9(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.a1(a).ok.as,s))],t.D),s)},
+return new A.op(A.d0("Pick Ringtone File",A.fR(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aY,s,s,!0,s,s,s,s,s,s,s,s)),A.d0("Open the app, click share on the ringtone you want to publish and the select the shared file here. Your ringtone will be added on website and also in the next app update.",s),A.c([A.an8(B.Nq,new A.abV(a),A.an9(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.a1(a).ok.as,s)),A.an8(B.Np,new A.abW(a),A.an9(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.a1(a).ok.as,s))],t.D),s)},
 $S:441}
 A.abV.prototype={
 $0(){A.pO(this.a,!1).BT(!0)},
